@@ -92,7 +92,7 @@ body {
 .contact-links {
     display: flex;
     justify-content: center;
-    gap: 20px; /* Adjusted spacing for smaller icons */
+    gap: 20px; 
 }
 
 .contact-links a {
@@ -103,7 +103,7 @@ body {
 }
 
 .contact-links img {
-    width: 10px; /* Adjusted width for smaller icons */
+    width: 10px; 
     vertical-align: middle;
     margin-right: 8px;
 }
